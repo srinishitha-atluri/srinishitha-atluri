@@ -1,3 +1,5 @@
+<img src="profile.jpeg" width="100" height="100" align="left" style="border-radius: 50%;" />
+
 # Hi 👋, I'm Nishitha Atluri
 
 🎯 **Senior Infrastructure Developer** | 🌱 Exploring **Data Analytics & Automation**  
