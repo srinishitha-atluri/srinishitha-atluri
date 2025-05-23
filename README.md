@@ -4,7 +4,7 @@
 💬 Ask me about Python, UiPath, ThinkAutomation, Power BI, and Excel  
 📫 Reach me at: **srinishithachowdaryatluri@gmail.com**  
 🌐 [LinkedIn](https://www.linkedin.com/in/srinishithaatluri)
-📱 +91-7893866373 
+
 ---
 
 ## 🏅 Achievements & Certifications
