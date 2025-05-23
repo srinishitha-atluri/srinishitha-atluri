@@ -1,10 +1,10 @@
 # Hi 👋, I'm Nishitha Atluri
 
 🎯 **Senior Infrastructure Developer** | 🌱 Exploring **Data Analytics & Automation**  
-💬 Ask me about Python, UiPath, ThinkAutomation, Power BI, and Excel  
-📫 Reach me at: **srinishithachowdaryatluri@gmail.com**  
-🌐 [LinkedIn](https://www.linkedin.com/in/srinishithaatluri)
-📱 +91-7893866373 
+💬 Ask me about: Python, UiPath, ThinkAutomation, Power BI, and Excel  
+📫 **Email:** srinishithachowdaryatluri@gmail.com  
+🌐 **LinkedIn:** [linkedin.com/in/srinishithaatluri](https://www.linkedin.com/in/srinishithaatluri)  
+📱 **Phone:** +91-7893866373
 
 
 ---
