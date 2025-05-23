@@ -15,12 +15,6 @@
 
 ---
 
-## 📚 Education
-
-🎓 B.Tech in ECE – Gudlavalleru Engineering College (2016–2020)
-
----
-
 ## 💼 Work Experience
 
 **Cognizant Technology Solutions**  
@@ -34,13 +28,7 @@
 ## 🛠️ Skills
 
 **Languages & Tools:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat)  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat)  
-![UiPath](https://img.shields.io/badge/-UiPath-FF6600?logo=uipath&logoColor=white&style=flat)  
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)  
-![ThinkAutomation](https://img.shields.io/badge/-ThinkAutomation-blueviolet?style=flat)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat) ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=flat) ![UiPath](https://img.shields.io/badge/-UiPath-FF6600?logo=uipath&logoColor=white&style=flat) ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat) ![ThinkAutomation](https://img.shields.io/badge/-ThinkAutomation-blueviolet?style=flat)  
 
 ---
 
